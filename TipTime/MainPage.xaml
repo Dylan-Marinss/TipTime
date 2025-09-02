@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TipTime.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Label 
+                Text="Valor"/>
+            
+            <Entry 
+                x:Name="ValorTotalEntry" 
+                Placeholder="Insira o valor" />
+            
+            <Label 
+                Text="Gorjeta" />
+            
+            <Label 
+                x:Name="ValorGorjetaLabel" 
+                Text="0.00" />
+
+            <Label
+                Text="Valor Total" />
+
+            <Label
+                x:Name="ValorTotalLabel"
+                Text="0.00" />
+
+            <Label
+                Text="Porcetagem da Gorjeta" />
+
+            <Label
+                x:Name="PorcetagemGorjetaLabel" 
+                Text="15%" />
+            
+            <Slider 
+                x:Name="PorcentagemSlider" 
+                Minimum="0" Maximum="100" 
+                ValueChanged="PorcentagemSlider_ValueChanged"/>
+
+                <Button 
+                    x:Name="QuinzeporcBnt"
+                    Text="15%"
+                    SemanticProperties.Description="15% de gorjeta"
+                    Clicked="QuinzeporcBnt_Clicked"  />
+
+                <Button
+                       x:Name="VinteporcBnt"
+                        Text="20%"
+                        SemanticProperties.Hint="20% de gorjeta"
+                        Clicked="VinteporcBnt_Clicked" />
+
+                <Button 
+                        x:Name="ArredondarParaMais"
+                        Text="Arrendorar para mais"
+                        SemanticProperties.Hint="Arrendodar para mais"
+                        Clicked="ArredondarParaMais_Clicked"/>
+
+            <Button
+                          x:Name="ArrendodarParaMenos"
+                            Text="Arrendorar Para Menos"
+                          SemanticProperties.Hint="Arrendodar para menos"
+                        Clicked = "ArrendodarParaMenos_Clicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
