@@ -177,3 +177,4 @@ D:\Dylan2DS\PAM-I (Programação de Aplicativos Mobile - I)\TipTime\TipTime\obj\
 D:\Dylan2DS\PAM-I (Programação de Aplicativos Mobile - I)\TipTime\TipTime\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Dylan2DS\PAM-I (Programação de Aplicativos Mobile - I)\TipTime\TipTime\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Dylan2DS\PAM-I (Programação de Aplicativos Mobile - I)\TipTime\TipTime\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Dylan2DS\PAM-I (Programação de Aplicativos Mobile - I)\TipTime\TipTime\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TipTime.sourcelink.json

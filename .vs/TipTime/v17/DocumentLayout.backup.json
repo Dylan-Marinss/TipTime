@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|d:\\dylan2ds\\pam-i (programa\u00E7\u00E3o de aplicativos mobile - i)\\tiptime\\tiptime\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|d:\\dylan2ds\\pam-i (programa\u00E7\u00E3o de aplicativos mobile - i)\\tiptime\\tiptime\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|d:\\dylan2ds\\pam-i (programa\u00E7\u00E3o de aplicativos mobile - i)\\tiptime\\tiptime\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|d:\\dylan2ds\\pam-i (programa\u00E7\u00E3o de aplicativos mobile - i)\\tiptime\\tiptime\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|d:\\dylan2ds\\pam-i (programa\u00E7\u00E3o de aplicativos mobile - i)\\tiptime\\tiptime\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|d:\\dylan2ds\\pam-i (programa\u00E7\u00E3o de aplicativos mobile - i)\\tiptime\\tiptime\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6B35EB-57E9-4F16-8F9F-16CEA6322701}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "TipTime\\MainPage.xaml.cs",
-              "ToolTip": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MainPage.xaml.cs",
-              "RelativeToolTip": "TipTime\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TipTime\\MauiProgram.cs",
+              "ToolTip": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MauiProgram.cs",
+              "RelativeToolTip": "TipTime\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T22:47:12.856Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-09-30T22:26:27.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "TipTime\\AboutPage.xaml",
+              "ToolTip": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\AboutPage.xaml",
+              "RelativeToolTip": "TipTime\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-30T22:25:51.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "TipTime\\AboutPage.xaml.cs",
+              "ToolTip": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\AboutPage.xaml.cs",
+              "RelativeToolTip": "TipTime\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:23:56.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TipTime\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MainPage.xaml.cs",
+              "RelativeToolTip": "TipTime\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T22:47:12.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MainPage.xaml",
               "RelativeDocumentMoniker": "TipTime\\MainPage.xaml",
               "ToolTip": "D:\\Dylan2DS\\PAM-I (Programa\u00E7\u00E3o de Aplicativos Mobile - I)\\TipTime\\TipTime\\MainPage.xaml",
               "RelativeToolTip": "TipTime\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-01T22:42:12.12Z",
               "EditorCaption": ""

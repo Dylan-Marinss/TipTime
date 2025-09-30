@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\Dylan2DS\PAM-I %28Programação de Aplicativos Mobile - I%29\TipTime\TipTime\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-09-02T01:18:25.908</Modified>
+      <Modified>2025-09-30T22:29:21.923</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Dylan2DS\PAM-I %28Programação de Aplicativos Mobile - I%29\TipTime\TipTime\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TipTime.dll">
       <PackagePath>TipTime.dll</PackagePath>
-      <Modified>2025-09-02T01:18:25.669</Modified>
+      <Modified>2025-09-30T22:29:21.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Dylan2DS\PAM-I %28Programação de Aplicativos Mobile - I%29\TipTime\TipTime\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TipTime.exe</PackagePath>
-      <Modified>2025-09-02T01:18:25.669</Modified>
+      <Modified>2025-09-30T22:29:21.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Dylan2DS\PAM-I %28Programação de Aplicativos Mobile - I%29\TipTime\TipTime\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
